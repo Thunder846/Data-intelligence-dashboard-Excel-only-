@@ -1,4 +1,4 @@
-# Data-intelligence-dashboard-Excel-only-# data-intelligence-dashboard-excel--final-project
+# Data-intelligence-dashboard
 📊 Excel analytics project on 250 customer transactions — GroupBy-style customer ranking, FILTER-style search, linear regression, What-If scenarios, and an interactive KPI dashboard with Pivot Charts &amp; slicer-style filters. 1,000+ formulas, 0 errors, no hardcoded results.
 
 
